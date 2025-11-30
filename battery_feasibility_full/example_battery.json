@@ -1,0 +1,17 @@
+{
+  "model_name": "CR2032_dummy",
+  "nominal_capacity_mAh": 220.0,
+  "nominal_voltage_V": 3.0,
+  "soc_points": [0.0, 0.2, 0.5, 0.8, 1.0],
+  "ocv_V": [2.0, 2.6, 2.9, 3.0, 3.1],
+  "dcr_ohm": [0.020, 0.025, 0.030, 0.040, 0.060],
+  "acr_ohm": [0.020, 0.025, 0.030, 0.040, 0.060],
+  "temp_ref_C": 25.0,
+  "temp_capacity_coeff_per_C": 0.003,
+  "temp_dcr_coeff_per_C": -0.01,
+  "temp_acr_coeff_per_C": -0.01,
+  "capacity_aging_coeff_per_year": 0.03,
+  "dcr_aging_coeff_per_year": 0.08,
+  "acr_aging_coeff_per_year": 0.05,
+  "ocv_temp_coeff_per_C": 0.0
+}

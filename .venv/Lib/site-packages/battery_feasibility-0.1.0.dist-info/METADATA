@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: battery-feasibility
+Version: 0.1.0
+Summary: V1 Coin Cell probabilistic battery feasibility engine
+Requires-Python: >=3.10
+Requires-Dist: numpy>=1.24.0
+Requires-Dist: fastapi>=0.110.0
+Requires-Dist: uvicorn>=0.27.0

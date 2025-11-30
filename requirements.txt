@@ -1,0 +1,9 @@
+﻿# Editable install for local package
+-e c:\users\hhuan\desktop\v1\battery_feasibility_full
+
+fastapi==0.122.0
+matplotlib==3.10.7
+numpy==2.3.5
+pandas==2.3.3
+streamlit==1.51.0
+uvicorn==0.38.0
