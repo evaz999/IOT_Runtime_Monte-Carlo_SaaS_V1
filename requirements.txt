@@ -1,5 +1,5 @@
-﻿# Editable install for local package
--e c:\users\hhuan\desktop\v1\battery_feasibility_full
+﻿# Editable install for local package (relative path for Streamlit Cloud)
+-e ./battery_feasibility_full
 
 fastapi==0.122.0
 matplotlib==3.10.7
